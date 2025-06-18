@@ -2,7 +2,7 @@
 
 - I’m currently working on full stack development
 - 📫 How to reach me: Send a mail at ananya111101@gmail.com 
-- ⚡ Fun fact: I love to dance and into modelling as well.
+- ⚡ Fun fact: I love to dance and Iam into modelling as well.
 
 <!--
 **ananya1111/ananya1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
